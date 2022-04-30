@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=minh145bvn&label=Profile%20views&color=0e75b6&style=flat" alt="minh145bvn" /> </p>
 
-- 🔭 I’m currently working on [SkyPixel](3fmc.com/discord)
+- 🔭 I’m currently working on [SkyPixel](https://3fmc.com/discord)
 
 - 🌱 I’m currently learning **Java and Linux**
 
